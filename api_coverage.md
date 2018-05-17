@@ -49,6 +49,26 @@ API call | Status
 `/upload_session/finish_batch/check` | 🌑
 `/upload_session/start` | 🌕
 
+## Paper namespace
+API call | Status
+--- | :---:
+`/docs/archive` | 🌑
+`/docs/create` | 🌑
+`/docs/download` | 🌑
+`/docs/folder_users/list` | 🌑
+`/docs/folder_users/list/continue` | 🌑
+`/docs/get_folder_info` | 🌑
+`/docs/list` | 🌑
+`/docs/list/continue` | 🌑
+`/docs/permanently_delete` | 🌑
+`/docs/sharing_policy/get` | 🌑
+`/docs/sharing_policy/set` | 🌑
+`/docs/update` | 🌑
+`/docs/users/add` | 🌑
+`/docs/users/list` | 🌑
+`/docs/users/list/continue` | 🌑
+`/docs/users/remove` | 🌑
+
 ## Sharing namespace
 API call | Status
 --- | :---:
